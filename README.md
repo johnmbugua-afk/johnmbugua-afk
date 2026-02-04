@@ -1,5 +1,5 @@
 # Hi there, I'm John Mbugua
-### Python Automation Engineer | Tech-for-Good Advocate
+### BSc Renewable Energy & Biofuel Tech | Python Automation Engineer. Building data-driven systems for a sustainable future. 🇰🇪
 
 I am a Python developer based in **Nairobi, Kenya**, specializing in building automated systems that save time and increase data accuracy. Currently, I am leveraging AI and automation to support digital movements and SME efficiency.
 
